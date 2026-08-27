@@ -1,0 +1,4 @@
+pdfplumber
+requests
+urllib3
+google-genai
